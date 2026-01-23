@@ -88,6 +88,87 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "https://theair-hub.github.io/The-art-of-Tea/images/LydiaHerMother/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "LydiaHerMother"
+                ]
+            },
+            "height": 2620,
+            "width": 3434,
+            "items": [
+                {
+                    "id": "https://theair-hub.github.io/The-art-of-Tea/images/LydiaHerMother/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://theair-hub.github.io/The-art-of-Tea/images/LydiaHerMother/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://theair-hub.github.io/The-art-of-Tea/images/LydiaHerMother/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 108,
+                                                "height": 82
+                                            },
+                                            {
+                                                "width": 215,
+                                                "height": 164
+                                            },
+                                            {
+                                                "width": 430,
+                                                "height": 328
+                                            },
+                                            {
+                                                "width": 859,
+                                                "height": 655
+                                            },
+                                            {
+                                                "width": 1717,
+                                                "height": 1310
+                                            },
+                                            {
+                                                "width": 3434,
+                                                "height": 2620
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 3434,
+                                        "@id": "https://theair-hub.github.io/The-art-of-Tea/images/LydiaHerMother",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2620,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://theair-hub.github.io/The-art-of-Tea/images/LydiaHerMother/canvas/"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
