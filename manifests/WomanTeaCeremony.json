@@ -1,0 +1,49 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://theair-hub.github.io/The-art-of-Tea/manifests/WomanTeaCeremony.json",
+  "@type" : "sc:Manifest",
+  "label" : "Woman Performing the Tea Ceremony",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Print of a Japanese woman performing the Tea Ceremony. Japan, Edo period (1615-1868). ",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution" : "Kikukawa Eizan (Japanese, 1787–1867) (artist)",
+  "sequences" : [ {
+    "@id" : "http://056ff044-1519-430d-b1b0-ec71271f2668",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://f1ab6a71-1615-43c9-9985-f7b2809e6a5b",
+      "@type" : "sc:Canvas",
+      "label" : "WomanPerformingtheTeaCeremony",
+      "height" : 3216,
+      "width" : 2798,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://b35158e7-8967-4652-a605-bc25cba69c25",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://theair-hub.github.io/The-art-of-Tea/images/Japanese-WomanPerformingTea/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://theair-hub.github.io/The-art-of-Tea/images/Japanese-WomanPerformingTea",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3216,
+          "width" : 2798
+        },
+        "on" : "http://f1ab6a71-1615-43c9-9985-f7b2809e6a5b"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
