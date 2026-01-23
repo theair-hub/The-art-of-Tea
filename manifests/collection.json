@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://theair-hub.github.io/The-art-of-Tea/manifests/LydiaHerMother.json",
     "label" : "Lydia and Her Mother at Tea"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://theair-hub.github.io/The-art-of-Tea/manifests/WomanTeaCeremony.json",
+    "label" : "Woman Performing the Tea Ceremony"
   } ]
 }
