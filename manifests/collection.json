@@ -17,5 +17,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://theair-hub.github.io/The-art-of-Tea/manifests/manifest.json",
     "label" : "The Book of Tea by Okakura, Kakuzo, 1862-1913"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://theair-hub.github.io/The-art-of-Tea/manifests/theBookOfTeaManifest-1to61.json",
+    "label" : [ "The Book of Tea by Okakura, Kakuzo, 1862-1913" ]
   } ]
 }
