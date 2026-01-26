@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 19,
+    "height" : 33
+  }, {
+    "width" : 38,
+    "height" : 65
+  }, {
+    "width" : 75,
+    "height" : 129
+  }, {
+    "width" : 150,
+    "height" : 257
+  }, {
+    "width" : 299,
+    "height" : 514
+  }, {
+    "width" : 598,
+    "height" : 1028
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 598,
+  "@id" : "https://theair-hub.github.io/The-art-of-Tea/images/bookoftea-39",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1028
+}

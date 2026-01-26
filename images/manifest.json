@@ -171,6 +171,87 @@
             ]
         },
         {
+            "id": "https://theair-hub.github.io/The-art-of-Tea/images/bookoftea-40/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "bookoftea-40"
+                ]
+            },
+            "height": 1028,
+            "width": 598,
+            "items": [
+                {
+                    "id": "https://theair-hub.github.io/The-art-of-Tea/images/bookoftea-40/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://theair-hub.github.io/The-art-of-Tea/images/bookoftea-40/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://theair-hub.github.io/The-art-of-Tea/images/bookoftea-40/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 19,
+                                                "height": 33
+                                            },
+                                            {
+                                                "width": 38,
+                                                "height": 65
+                                            },
+                                            {
+                                                "width": 75,
+                                                "height": 129
+                                            },
+                                            {
+                                                "width": 150,
+                                                "height": 257
+                                            },
+                                            {
+                                                "width": 299,
+                                                "height": 514
+                                            },
+                                            {
+                                                "width": 598,
+                                                "height": 1028
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 598,
+                                        "@id": "https://theair-hub.github.io/The-art-of-Tea/images/bookoftea-40",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1028,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://theair-hub.github.io/The-art-of-Tea/images/bookoftea-40/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://theair-hub.github.io/The-art-of-Tea/images/bookoftea-11/canvas/",
             "type": "Canvas",
             "label": {
@@ -408,6 +489,168 @@
                                 "format": "image/jpeg"
                             },
                             "target": "https://theair-hub.github.io/The-art-of-Tea/images/bookoftea-8/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://theair-hub.github.io/The-art-of-Tea/images/bookoftea-38/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "bookoftea-38"
+                ]
+            },
+            "height": 1028,
+            "width": 598,
+            "items": [
+                {
+                    "id": "https://theair-hub.github.io/The-art-of-Tea/images/bookoftea-38/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://theair-hub.github.io/The-art-of-Tea/images/bookoftea-38/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://theair-hub.github.io/The-art-of-Tea/images/bookoftea-38/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 19,
+                                                "height": 33
+                                            },
+                                            {
+                                                "width": 38,
+                                                "height": 65
+                                            },
+                                            {
+                                                "width": 75,
+                                                "height": 129
+                                            },
+                                            {
+                                                "width": 150,
+                                                "height": 257
+                                            },
+                                            {
+                                                "width": 299,
+                                                "height": 514
+                                            },
+                                            {
+                                                "width": 598,
+                                                "height": 1028
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 598,
+                                        "@id": "https://theair-hub.github.io/The-art-of-Tea/images/bookoftea-38",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1028,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://theair-hub.github.io/The-art-of-Tea/images/bookoftea-38/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://theair-hub.github.io/The-art-of-Tea/images/bookoftea-37/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "bookoftea-37"
+                ]
+            },
+            "height": 1028,
+            "width": 598,
+            "items": [
+                {
+                    "id": "https://theair-hub.github.io/The-art-of-Tea/images/bookoftea-37/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://theair-hub.github.io/The-art-of-Tea/images/bookoftea-37/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://theair-hub.github.io/The-art-of-Tea/images/bookoftea-37/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 19,
+                                                "height": 33
+                                            },
+                                            {
+                                                "width": 38,
+                                                "height": 65
+                                            },
+                                            {
+                                                "width": 75,
+                                                "height": 129
+                                            },
+                                            {
+                                                "width": 150,
+                                                "height": 257
+                                            },
+                                            {
+                                                "width": 299,
+                                                "height": 514
+                                            },
+                                            {
+                                                "width": 598,
+                                                "height": 1028
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 598,
+                                        "@id": "https://theair-hub.github.io/The-art-of-Tea/images/bookoftea-37",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1028,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://theair-hub.github.io/The-art-of-Tea/images/bookoftea-37/canvas/"
                         }
                     ]
                 }
@@ -1224,6 +1467,87 @@
             ]
         },
         {
+            "id": "https://theair-hub.github.io/The-art-of-Tea/images/bookoftea-36/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "bookoftea-36"
+                ]
+            },
+            "height": 1028,
+            "width": 598,
+            "items": [
+                {
+                    "id": "https://theair-hub.github.io/The-art-of-Tea/images/bookoftea-36/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://theair-hub.github.io/The-art-of-Tea/images/bookoftea-36/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://theair-hub.github.io/The-art-of-Tea/images/bookoftea-36/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 19,
+                                                "height": 33
+                                            },
+                                            {
+                                                "width": 38,
+                                                "height": 65
+                                            },
+                                            {
+                                                "width": 75,
+                                                "height": 129
+                                            },
+                                            {
+                                                "width": 150,
+                                                "height": 257
+                                            },
+                                            {
+                                                "width": 299,
+                                                "height": 514
+                                            },
+                                            {
+                                                "width": 598,
+                                                "height": 1028
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 598,
+                                        "@id": "https://theair-hub.github.io/The-art-of-Tea/images/bookoftea-36",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1028,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://theair-hub.github.io/The-art-of-Tea/images/bookoftea-36/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://theair-hub.github.io/The-art-of-Tea/images/bookoftea-7/canvas/",
             "type": "Canvas",
             "label": {
@@ -1461,6 +1785,87 @@
                                 "format": "image/jpeg"
                             },
                             "target": "https://theair-hub.github.io/The-art-of-Tea/images/bookoftea-22/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://theair-hub.github.io/The-art-of-Tea/images/bookoftea-39/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "bookoftea-39"
+                ]
+            },
+            "height": 1028,
+            "width": 598,
+            "items": [
+                {
+                    "id": "https://theair-hub.github.io/The-art-of-Tea/images/bookoftea-39/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://theair-hub.github.io/The-art-of-Tea/images/bookoftea-39/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://theair-hub.github.io/The-art-of-Tea/images/bookoftea-39/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 19,
+                                                "height": 33
+                                            },
+                                            {
+                                                "width": 38,
+                                                "height": 65
+                                            },
+                                            {
+                                                "width": 75,
+                                                "height": 129
+                                            },
+                                            {
+                                                "width": 150,
+                                                "height": 257
+                                            },
+                                            {
+                                                "width": 299,
+                                                "height": 514
+                                            },
+                                            {
+                                                "width": 598,
+                                                "height": 1028
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 598,
+                                        "@id": "https://theair-hub.github.io/The-art-of-Tea/images/bookoftea-39",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1028,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://theair-hub.github.io/The-art-of-Tea/images/bookoftea-39/canvas/"
                         }
                     ]
                 }
