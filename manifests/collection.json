@@ -13,5 +13,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://theair-hub.github.io/The-art-of-Tea/manifests/WomanTeaCeremony.json",
     "label" : "Woman Performing the Tea Ceremony"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://theair-hub.github.io/The-art-of-Tea/manifests/manifest.json",
+    "label" : "The Book of Tea by Okakura, Kakuzo, 1862-1913"
   } ]
 }
