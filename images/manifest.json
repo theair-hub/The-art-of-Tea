@@ -3654,6 +3654,87 @@
             ]
         },
         {
+            "id": "https://theair-hub.github.io/The-art-of-Tea/images/teaplantationChina-1800-1850/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "teaplantationChina-1800-1850"
+                ]
+            },
+            "height": 2116,
+            "width": 3425,
+            "items": [
+                {
+                    "id": "https://theair-hub.github.io/The-art-of-Tea/images/teaplantationChina-1800-1850/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://theair-hub.github.io/The-art-of-Tea/images/teaplantationChina-1800-1850/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://theair-hub.github.io/The-art-of-Tea/images/teaplantationChina-1800-1850/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 108,
+                                                "height": 67
+                                            },
+                                            {
+                                                "width": 215,
+                                                "height": 133
+                                            },
+                                            {
+                                                "width": 429,
+                                                "height": 265
+                                            },
+                                            {
+                                                "width": 857,
+                                                "height": 529
+                                            },
+                                            {
+                                                "width": 1713,
+                                                "height": 1058
+                                            },
+                                            {
+                                                "width": 3425,
+                                                "height": 2116
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 3425,
+                                        "@id": "https://theair-hub.github.io/The-art-of-Tea/images/teaplantationChina-1800-1850",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2116,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://theair-hub.github.io/The-art-of-Tea/images/teaplantationChina-1800-1850/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://theair-hub.github.io/The-art-of-Tea/images/bookoftea-3/canvas/",
             "type": "Canvas",
             "label": {
