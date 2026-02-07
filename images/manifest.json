@@ -981,6 +981,87 @@
             ]
         },
         {
+            "id": "https://theair-hub.github.io/The-art-of-Tea/images/-AChinesetea-/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "-AChinesetea-"
+                ]
+            },
+            "height": 2281,
+            "width": 3289,
+            "items": [
+                {
+                    "id": "https://theair-hub.github.io/The-art-of-Tea/images/-AChinesetea-/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://theair-hub.github.io/The-art-of-Tea/images/-AChinesetea-/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://theair-hub.github.io/The-art-of-Tea/images/-AChinesetea-/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 103,
+                                                "height": 72
+                                            },
+                                            {
+                                                "width": 206,
+                                                "height": 143
+                                            },
+                                            {
+                                                "width": 412,
+                                                "height": 286
+                                            },
+                                            {
+                                                "width": 823,
+                                                "height": 571
+                                            },
+                                            {
+                                                "width": 1645,
+                                                "height": 1141
+                                            },
+                                            {
+                                                "width": 3289,
+                                                "height": 2281
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 3289,
+                                        "@id": "https://theair-hub.github.io/The-art-of-Tea/images/-AChinesetea-",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2281,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://theair-hub.github.io/The-art-of-Tea/images/-AChinesetea-/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://theair-hub.github.io/The-art-of-Tea/images/bookoftea-33/canvas/",
             "type": "Canvas",
             "label": {
