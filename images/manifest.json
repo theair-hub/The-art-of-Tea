@@ -3168,6 +3168,87 @@
             ]
         },
         {
+            "id": "https://theair-hub.github.io/The-art-of-Tea/images/Utagawa-WesternersYokohama,Japan,-1865/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Utagawa-WesternersYokohama,Japan,-1865"
+                ]
+            },
+            "height": 2468,
+            "width": 3335,
+            "items": [
+                {
+                    "id": "https://theair-hub.github.io/The-art-of-Tea/images/Utagawa-WesternersYokohama,Japan,-1865/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://theair-hub.github.io/The-art-of-Tea/images/Utagawa-WesternersYokohama,Japan,-1865/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://theair-hub.github.io/The-art-of-Tea/images/Utagawa-WesternersYokohama,Japan,-1865/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 105,
+                                                "height": 78
+                                            },
+                                            {
+                                                "width": 209,
+                                                "height": 155
+                                            },
+                                            {
+                                                "width": 417,
+                                                "height": 309
+                                            },
+                                            {
+                                                "width": 834,
+                                                "height": 617
+                                            },
+                                            {
+                                                "width": 1668,
+                                                "height": 1234
+                                            },
+                                            {
+                                                "width": 3335,
+                                                "height": 2468
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 3335,
+                                        "@id": "https://theair-hub.github.io/The-art-of-Tea/images/Utagawa-WesternersYokohama,Japan,-1865",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2468,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://theair-hub.github.io/The-art-of-Tea/images/Utagawa-WesternersYokohama,Japan,-1865/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://theair-hub.github.io/The-art-of-Tea/images/bookoftea-12/canvas/",
             "type": "Canvas",
             "label": {
