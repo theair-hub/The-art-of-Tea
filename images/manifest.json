@@ -4869,6 +4869,87 @@
             ]
         },
         {
+            "id": "https://theair-hub.github.io/The-art-of-Tea/images/Dufour-Chinesemantea-[1693]/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Dufour-Chinesemantea-[1693]"
+                ]
+            },
+            "height": 3634,
+            "width": 2000,
+            "items": [
+                {
+                    "id": "https://theair-hub.github.io/The-art-of-Tea/images/Dufour-Chinesemantea-[1693]/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://theair-hub.github.io/The-art-of-Tea/images/Dufour-Chinesemantea-[1693]/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://theair-hub.github.io/The-art-of-Tea/images/Dufour-Chinesemantea-[1693]/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 63,
+                                                "height": 114
+                                            },
+                                            {
+                                                "width": 125,
+                                                "height": 228
+                                            },
+                                            {
+                                                "width": 250,
+                                                "height": 455
+                                            },
+                                            {
+                                                "width": 500,
+                                                "height": 909
+                                            },
+                                            {
+                                                "width": 1000,
+                                                "height": 1817
+                                            },
+                                            {
+                                                "width": 2000,
+                                                "height": 3634
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 2000,
+                                        "@id": "https://theair-hub.github.io/The-art-of-Tea/images/Dufour-Chinesemantea-[1693]",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 3634,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://theair-hub.github.io/The-art-of-Tea/images/Dufour-Chinesemantea-[1693]/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://theair-hub.github.io/The-art-of-Tea/images/bookoftea-31/canvas/",
             "type": "Canvas",
             "label": {
